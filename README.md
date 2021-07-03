@@ -1,4 +1,4 @@
-Prerequisites for the first use of git and github in you machine
+Prerequisites for the first use of git and github in your machine
 
 * Enroll your security key
   - install git
