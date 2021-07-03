@@ -5,7 +5,7 @@ Prerequisites for the first use of git and github in you machine
   - generate ssh security key following https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
   - enroll security key in github account settings -> SSH and GPG keys (open "your_key_file_name.pub" file and copy the contents to a form in the settings)
 
-* Expected work flow
+* Expected collaboration work flow
   - https://sunnykim91.tistory.com/127
 
 * git command examples to start git in your machine
